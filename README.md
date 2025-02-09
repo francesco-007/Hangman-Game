@@ -2,10 +2,10 @@ In Hangman there are at least two players where one thinks of a word and the oth
 
 To run the game manually using the terminal :<br>
   First type ( clang -Wall game.c -o game )<br>
-  Then, type ( ./game )__
+  Then, type ( ./game )
 
 
-Example for the game:__
+Example for the game:<br>
 
 Word to look for:
  > Tutors
