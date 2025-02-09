@@ -7,6 +7,7 @@ To run the game manually using the terminal :<br>
 
 Example for the game:<br>
 
+'''
 Word to look for:
  > Tutors
 Attempts left: 5
@@ -38,3 +39,5 @@ Enter a letter:
  > r
 T U T O R S 
 Congratulations, you won!
+'''
+
