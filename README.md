@@ -7,37 +7,35 @@ To run the game manually using the terminal :<br>
 
 Example for the game:<br>
 
-'''
-Word to look for:
- > Tutors
-Attempts left: 5
-Enter a letter:
- > T
-T _ T _ _ _ 
-Attempts left: 5
-Enter a letter:
- > a
-T _ T _ _ _ 
-Attempts left: 4
-Enter a letter:
- > S
-T _ T _ _ S 
-Attempts left: 4
-Enter a letter:
- > U
-T U T _ _ S 
-Attempts left: 4
-Enter a letter:
- > o
-T U T O _ S 
-Attempts left: 4
-Enter a letter:
- > P
-T U T O _ S 
-Attempts left: 3
-Enter a letter:
- > r
-T U T O R S 
-Congratulations, you won!
-'''
 
+Word to look for:<br>
+ > Tutors<br>
+Attempts left: 5<br>
+Enter a letter:<br>
+ > T<br>
+T _ T _ _ _ <br>
+Attempts left: 5<br>
+Enter a letter:<br>
+ > a<br>
+T _ T _ _ _ <br>
+Attempts left: 4<br>
+Enter a letter:<br>
+ > S<br>
+T _ T _ _ S <br>
+Attempts left: 4<br>
+Enter a letter:<br>
+ > U<br>
+T U T _ _ S <br>
+Attempts left: 4<br>
+Enter a letter:<br>
+ > o<br>
+T U T O _ S <br>
+Attempts left: 4<br>
+Enter a letter:<br>
+ > P<br>
+T U T O _ S <br>
+Attempts left: 3<br>
+Enter a letter:<br>
+ > r<br>
+T U T O R S <br>
+Congratulations, you won!<br>
